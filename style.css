@@ -1,0 +1,94 @@
+*{
+    background-color: rgb(190, 203, 240);
+}
+#firstHeading {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: x-large;
+}
+
+#mainHead {
+    width: 70%;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+
+#matrix {
+
+    height: 70px;
+    text-align: center;
+}
+
+#matrix input {
+    height: 30px;
+    width: 30%;
+    margin-left: 120px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#matrix button {
+    border-radius: 10px 20px 30px 40px;
+    height: 30px;
+    width: 10%;
+}
+
+#main {
+    margin-top: 180px;
+
+
+}
+
+.main {
+    text-align: center;
+}
+
+.head {
+    text-align: center;
+}
+
+
+#Matrix_A {
+    text-align: center;
+    font-family: "Edu AU VIC WA NT Guides", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#Matrix_B {
+    text-align: center;
+    font-family: "Edu AU VIC WA NT Guides", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+#sum {
+    margin-left: 390px;
+    border-radius: 10% / 50%;
+    width: 9%;
+    height: 30px;
+}
+
+#minus {
+    border-radius: 10% / 50%;
+    width: 9%;
+    height: 30px;
+}
+
+
+.heading {
+    text-align: center;
+}
+
+.result {
+    text-align: center;
+}
+
